@@ -39,3 +39,5 @@ class Storage {
 let num = new Storage();
 
 num = document.querySelector(".button-in");
+
+//~~~
